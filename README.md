@@ -65,3 +65,5 @@ This scraper is designed to extract data from exhibitor directories with the sam
 - [OutDoor by ISPO 2024 Exhibitor List](https://outdoorexhibitors.ispo.com/onlinecatalog/2024/list-of-exhibitors/)
 
 - [productronica 2025 Exhibitor List](https://exhibitors.productronica.com/exhibitor-portal/2025/list-of-exhibitors/)
+
+- [analytica 2026 Exhibitor List](https://exhibitors.analytica.de/exhibitor-portal/2026/list-of-exhibitors/)

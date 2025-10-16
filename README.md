@@ -11,7 +11,9 @@ Supports multiple Messe Muenchen trade fair websites with a consistent HTML stru
 
 ## 🔎 Testing Exhibitor List URLs for FREE
 
-Use [**Exhibitor List Scrapers Router & URL Tester**](https://console.apify.com/actors/PQ2HmPYNoLLjOR3Ew/input) actor to test your exhibitor list URLs **for FREE** and see which scraper can process them.
+- Since I have multiple exhibitor list scraper actors for different types of trade event websites, it might be hard to find the correct actor for your exhibitor list URL.
+
+- Use [**Exhibitor List Scrapers Router & URL Tester**](https://console.apify.com/actors/PQ2HmPYNoLLjOR3Ew/input) actor to test your exhibitor list URLs **for FREE** and see which scraper can process them.
 
 
 ## 👇 Check My Other Exhibitor List Scrapers
@@ -28,20 +30,20 @@ Use [**Exhibitor List Scrapers Router & URL Tester**](https://console.apify.com/
 
 - [Reed Expo Exhibitor List Scraper](https://apify.com/skython/reed-expo-exhibitor-list-scraper)
 
+- [Xporience Exhibitor List Scraper V2](https://apify.com/skython/xporience-exhibitor-list-scraper-2)
+
+- [Nuernberg Messe Exhibitor List Scraper](https://apify.com/skython/nuernberg-messe-exhibitor-list-scraper)
+
+- [GSMA MWC Exhibitor List Scraper](https://apify.com/skython/gsma-mwc-exhibitor-list-scraper)
+
 
 ## 🎯 Supported Website Structure
 
-This scraper is designed to extract data from exhibitor directories with the same HTML structure as the supported Messe Muenchen exhibitor lists.
+- This scraper is designed to extract data from exhibitor directories with the same HTML structure as the supported Messe Muenchen exhibitor lists below.
 
-### ❓ How to identify a supported website:
+- Take a look at some of the event websites from the below list. Your event website URL might be in that list.
 
-✅ Exhibitor listing page URL usually ends with `/list-of-exhibitors/`.
-
-- An example event website URL: https://exhibitors.iaa-mobility.com/exhibitordirectory/2025/list-of-exhibitors/
-
-✅ There could be an `Exhibitors` option in the menus.
-
-✅ Exhibitor listing page format should be the same as the sample websites below.
+- If you are not sure about if this actor is capable of scraping your event URL, test it with [**Exhibitor List Scrapers Router & URL Tester**](https://console.apify.com/actors/PQ2HmPYNoLLjOR3Ew/input) actor.
 
 
 ## 🌐 Supported Messe Muenchen Events (Exhibitor Lists)

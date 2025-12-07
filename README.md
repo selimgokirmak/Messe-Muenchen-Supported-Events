@@ -56,22 +56,22 @@ Supports multiple Messe Muenchen trade fair websites with a consistent HTML stru
 
 **Note:** *The following list includes Messe Muenchen exhibitor directory URLs that have been tested so far. Other Messe Muenchen or different events with the same website structure may also be supported.*
 
-- [IAA MOBILITY 2025 Exhibitor List](https://exhibitors.iaa-mobility.com/exhibitordirectory/2025/list-of-exhibitors/)
+- [IAA MOBILITY 2025 Exhibitor List – exhibitors.iaa-mobility.com](https://exhibitors.iaa-mobility.com/exhibitordirectory/2025/list-of-exhibitors/)
 
-- [electronica 2024 Exhibitor List](https://exhibitors.electronica.de/exhibitor-portal/2024/list-of-exhibitors/)
+- [electronica 2024 Exhibitor List – exhibitors.electronica.de](https://exhibitors.electronica.de/exhibitor-portal/2024/list-of-exhibitors/)
 
-- [EXPO REAL 2025 Exhibitor List](https://exhibitors.exporeal.net/exhibitordirectory/2025/exhibitors/)
+- [EXPO REAL 2025 Exhibitor List – exhibitors.exporeal.net](https://exhibitors.exporeal.net/exhibitordirectory/2025/exhibitors/)
 
-- [f.re.e 2025 Exhibitor List](https://ausstellerverzeichnis.free-muenchen.de/exhibitor-portal/2025/list-of-exhibitors/)
+- [f.re.e 2025 Exhibitor List – ausstellerverzeichnis.free-muenchen.de](https://ausstellerverzeichnis.free-muenchen.de/exhibitor-portal/2025/list-of-exhibitors/)
 
-- [INHORGENTA MUNICH 2025 Exhibitor List](https://exhibitors.inhorgenta.com/exhibitordirectory/2025/list-of-exhibitors/)
+- [INHORGENTA MUNICH 2025 Exhibitor List – exhibitors.inhorgenta.com](https://exhibitors.inhorgenta.com/exhibitordirectory/2025/list-of-exhibitors/)
 
-- [ISPO 2025 Exhibitor List](https://munichexhibitors.ispo.com/onlinecatalog/2024/list-of-exhibitors/)
+- [ISPO 2025 Exhibitor List – munichexhibitors.ispo.com](https://munichexhibitors.ispo.com/onlinecatalog/2024/list-of-exhibitors/)
 
-- [LOPEC 2025 Exhibitor List](https://exhibitors.lopec.com/industry-directory/2025/list-of-exhibitors/)
+- [LOPEC 2025 Exhibitor List – exhibitors.lopec.com](https://exhibitors.lopec.com/industry-directory/2025/list-of-exhibitors/)
 
-- [OutDoor by ISPO 2024 Exhibitor List](https://outdoorexhibitors.ispo.com/onlinecatalog/2024/list-of-exhibitors/)
+- [OutDoor by ISPO 2024 Exhibitor List – outdoorexhibitors.ispo.com](https://outdoorexhibitors.ispo.com/onlinecatalog/2024/list-of-exhibitors/)
 
-- [productronica 2025 Exhibitor List](https://exhibitors.productronica.com/exhibitor-portal/2025/list-of-exhibitors/)
+- [productronica 2025 Exhibitor List – exhibitors.productronica.com](https://exhibitors.productronica.com/exhibitor-portal/2025/list-of-exhibitors/)
 
-- [analytica 2026 Exhibitor List](https://exhibitors.analytica.de/exhibitor-portal/2026/list-of-exhibitors/)
+- [analytica 2026 Exhibitor List – exhibitors.analytica.de](https://exhibitors.analytica.de/exhibitor-portal/2026/list-of-exhibitors/)

@@ -13,7 +13,7 @@ Supports multiple Messe Muenchen trade fair websites with a consistent HTML stru
 
 - Since I have multiple exhibitor list scraper actors for different types of trade event websites, it might be hard to find the correct actor for your exhibitor list URL.
 
-- Use [**Exhibitor List Scrapers Router & URL Tester**](https://console.apify.com/actors/PQ2HmPYNoLLjOR3Ew/input) actor to test your exhibitor list URLs **for FREE** and see which scraper can process them.
+- Use [**Exhibitor List Scrapers Router & URL Tester**](https://apify.com/skython/exhibitor-list-scrapers-router) actor to test your exhibitor list URLs **for FREE** and see which scraper can process them.
 
 
 ## 👇 Check My Other Exhibitor List Scrapers
@@ -36,6 +36,12 @@ Supports multiple Messe Muenchen trade fair websites with a consistent HTML stru
 
 - [GSMA MWC Exhibitor List Scraper](https://apify.com/skython/gsma-mwc-exhibitor-list-scraper)
 
+- [Messe Berlin Exhibitor List Scraper](https://apify.com/skython/messe-berlin-exhibitor-list-scraper)
+
+- [AFAG Messe Exhibitor List Scraper](https://apify.com/skython/afag-messe-exhibitor-list-scraper)
+
+- [Messe Stuttgart Exhibitor List Scraper](https://apify.com/skython/messe-stuttgart-exhibitor-list-scraper)
+
 
 ## 🎯 Supported Website Structure
 
@@ -43,7 +49,7 @@ Supports multiple Messe Muenchen trade fair websites with a consistent HTML stru
 
 - Take a look at some of the event websites from the below list. Your event website URL might be in that list.
 
-- If you are not sure about if this actor is capable of scraping your event URL, test it with [**Exhibitor List Scrapers Router & URL Tester**](https://console.apify.com/actors/PQ2HmPYNoLLjOR3Ew/input) actor.
+- If you are not sure about if this actor is capable of scraping your event URL, test it with [**Exhibitor List Scrapers Router & URL Tester**](https://apify.com/skython/exhibitor-list-scrapers-router) actor.
 
 
 ## 🌐 Supported Messe Muenchen Events (Exhibitor Lists)
